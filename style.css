@@ -248,7 +248,7 @@ header+main{
    
 }
 
-.pic1:hover .hover{
+.pic1:hover .hover, .pic2:hover .hover, .pic3:hover .hover, .pic4:hover .hover{
     visibility: visible;
     
 }
